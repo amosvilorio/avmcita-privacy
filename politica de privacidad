@@ -1,0 +1,73 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de Privacidad | AVMCita</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.7;
+      color: #333;
+    }
+    h1, h2 { color: #174ea6; }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad de AVMCita</h1>
+  <p><strong>Última actualización:</strong> 4 de octubre de 2026</p>
+
+  <h2>1. Introducción</h2>
+  <p>AVMCita es una aplicación que permite a los negocios gestionar sus citas y a los clientes reservar servicios. Nos comprometemos a proteger la privacidad y los datos personales de nuestros usuarios.</p>
+
+  <h2>2. Información que recopilamos</h2>
+  <p>Podemos recopilar información como:</p>
+  <ul>
+    <li>Nombre y datos de contacto.</li>
+    <li>Información de acceso y cuenta.</li>
+    <li>Datos del negocio, como nombre, servicios y horarios.</li>
+    <li>Información de citas, reservas y notificaciones.</li>
+    <li>Comprobantes de pago, cuando se utiliza el método de transferencia.</li>
+    <li>Información técnica necesaria para el funcionamiento y la seguridad de la aplicación.</li>
+  </ul>
+
+  <h2>3. Uso de la información</h2>
+  <p>Utilizamos los datos para:</p>
+  <ul>
+    <li>Crear y administrar cuentas.</li>
+    <li>Gestionar reservas y citas.</li>
+    <li>Enviar confirmaciones, recordatorios y notificaciones.</li>
+    <li>Gestionar suscripciones y pagos.</li>
+    <li>Proteger la seguridad y mejorar el funcionamiento de AVMCita.</li>
+  </ul>
+
+  <h2>4. Almacenamiento y protección</h2>
+  <p>AVMCita utiliza servicios tecnológicos de terceros, como Firebase, para determinadas funciones de autenticación, almacenamiento y gestión de datos. Aplicamos medidas razonables para proteger la información contra accesos no autorizados, pérdida o uso indebido.</p>
+
+  <h2>5. Compartición de información</h2>
+  <p>Los datos de las citas se comparten con el negocio correspondiente para poder prestar el servicio reservado. No vendemos los datos personales de los usuarios. También podemos utilizar proveedores tecnológicos necesarios para el funcionamiento de la aplicación.</p>
+
+  <h2>6. Pagos y suscripciones</h2>
+  <p>AVMCita ofrece planes de suscripción para negocios. Los pagos pueden gestionarse mediante Google Play o, cuando esté disponible, mediante transferencia bancaria. Los pagos procesados por terceros también están sujetos a las políticas de esos proveedores.</p>
+
+  <h2>7. Publicidad</h2>
+  <p>La aplicación puede mostrar anuncios a los usuarios que utilizan el servicio gratuito. Cuando corresponda, los proveedores de publicidad pueden recopilar información de acuerdo con sus propias políticas de privacidad.</p>
+
+  <h2>8. Conservación y eliminación de datos</h2>
+  <p>Conservamos la información durante el tiempo necesario para prestar los servicios, cumplir obligaciones aplicables y resolver asuntos relacionados con las cuentas. Los usuarios pueden solicitar la eliminación de su cuenta y sus datos mediante los canales de contacto disponibles.</p>
+
+  <h2>9. Privacidad de menores</h2>
+  <p>AVMCita no está diseñada específicamente para menores de edad. No solicitamos intencionalmente datos personales de menores sin la autorización que corresponda.</p>
+
+  <h2>10. Cambios en esta política</h2>
+  <p>Podemos actualizar esta política para reflejar cambios en la aplicación o en nuestras prácticas. Publicaremos la versión vigente en esta página.</p>
+
+  <h2>11. Contacto</h2>
+  <p>Para consultas relacionadas con esta política o el tratamiento de datos, puedes comunicarte con el equipo de AVMCita a través del correo electrónico de contacto de la aplicación.</p>
+</body>
+</html>
+```
